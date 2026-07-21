@@ -17,7 +17,7 @@ pyserial==3.5
 pyshark==0.6
 python-dotenv==1.1.0
 PyYAML==6.0.2
-streamlit==1.44.1
+streamlit==1.54.0
 watchdog==6.0.0
 english-words==2.0.1
 tqdm==4.66.5

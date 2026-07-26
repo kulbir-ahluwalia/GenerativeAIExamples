@@ -10,7 +10,7 @@ pydantic==2.5.0
 sentence-transformers>=2.5.0
 faiss-cpu==1.7.4
 numpy==1.24.3
-torch==2.1.0
+torch==2.13.0
 
 # Text Processing
 langchain>=0.1.0

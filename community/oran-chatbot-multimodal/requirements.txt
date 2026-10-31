@@ -21,7 +21,7 @@ Pillow==13.0.0
 pydantic==2.5.3
 pymilvus==2.3.1
 pymupdf==1.23.15
-python-multipart==0.0.32
+python-multipart==0.0.33
 python_pptx==0.6.23
 qdrant_client==1.7.1
 Requests==2.31.0

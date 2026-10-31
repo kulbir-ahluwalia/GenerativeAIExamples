@@ -7,7 +7,7 @@ langchain-openai==0.2.8
 langchain==1.4.7
 langchain-community==0.3.27
 pymilvus==2.5.5
-python-multipart==0.0.32
+python-multipart==0.0.33
 unstructured[all-docs]==0.18.18
 uvicorn[standard]==0.32.0
 pydantic==2.9.2

@@ -11,7 +11,7 @@ jupyterlab==4.0.8
 langchain==0.2.5
 langchain-community==0.2.5
 langchain-core==0.2.7
-langchain-nvidia-ai-endpoints==0.1.6
+langchain-nvidia-ai-endpoints==1.4.2
 langchain-text-splitters==0.2.1
 llama-hub==0.0.43
 llama-index==0.9.22
@@ -25,7 +25,7 @@ python-multipart==0.0.6
 python_pptx==0.6.23
 qdrant_client==1.7.1
 Requests==2.31.0
-sentence-transformers==2.2.2
+sentence-transformers==5.6.0
 streamlit==1.30.0
 streamlit_analytics==0.4.1
 streamlit_feedback==0.1.3

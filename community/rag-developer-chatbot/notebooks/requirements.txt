@@ -1,7 +1,7 @@
 langchain==0.3.30
 langchain-community==0.3.27
 sentence-transformers==5.6.0
-jupyterlab==4.5.11
+jupyterlab==4.6.5
 langchain-nvidia-ai-endpoints==1.4.2
 gradio==6.31.0
 faiss-gpu==1.7.2

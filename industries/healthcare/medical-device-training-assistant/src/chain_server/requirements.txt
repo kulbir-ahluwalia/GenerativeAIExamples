@@ -21,7 +21,7 @@ psycopg2-binary==2.9.9
 pgvector==0.3.6
 langchain-nvidia-ai-endpoints==1.4.2
 opentelemetry-sdk==1.23.0
-opentelemetry-api==1.45.1
+opentelemetry-api==1.45.2
 opentelemetry-exporter-otlp-proto-grpc==1.23.0
 faiss-cpu==1.7.4
 httpcore==1.0.2

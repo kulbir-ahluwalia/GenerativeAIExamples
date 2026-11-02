@@ -14,6 +14,6 @@ PyYAML==6.0.2
 langchain-milvus==0.1.10
 pymilvus[bulk_writer]==2.5.5
 pymilvus[model]==2.5.5
-tqdm==4.68.2
+tqdm==4.68.3
 minio==7.2.15
 overrides==7.7.0

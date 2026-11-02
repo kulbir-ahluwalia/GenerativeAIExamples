@@ -1,12 +1,12 @@
-bleach==6.2.0
+bleach==6.4.0
 dataclass-wizard==0.27.0
 fastapi==0.115.5
-langchain-core==1.3.3
-langchain-nvidia-ai-endpoints==0.3.7
-langchain==1.3.9
-langchain-community==0.3.7
+langchain-core==1.7.3
+langchain-nvidia-ai-endpoints==1.4.2
+langchain==1.4.7
+langchain-community==0.3.27
 pymilvus==2.5.5
-python-multipart==0.0.31
+python-multipart==0.0.33
 unstructured[all-docs]==0.18.18
 uvicorn[standard]==0.32.0
 pydantic==2.9.2
@@ -14,6 +14,6 @@ PyYAML==6.0.2
 langchain-milvus==0.1.10
 pymilvus[bulk_writer]==2.5.5
 pymilvus[model]==2.5.5
-tqdm==4.68.2
+tqdm==4.68.3
 minio==7.2.15
 overrides==7.7.0
